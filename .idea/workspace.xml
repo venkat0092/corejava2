@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="666b7806-64ca-4419-a05f-849485343b21" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day04/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day04/College.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day04/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day04/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day04/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day05/constructor/Brand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day05/constructor/Nike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day05/keywordfinal/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day05/keywordfinal/Officer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day05/keywordstatic/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/arrays/arrayssize/core-java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/classstring/string/AnagramChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/classstring/string/RotationString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/classstring/string/VowelCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/classstring/string/WordReverser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/compatorandcomparable/compareto/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/compatorandcomparable/compareto/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/compatorandcomparable/compareto/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/loopsandconditions/reversedigits/AgePerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/loopsandconditions/reversedigits/FibonacciSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/loopsandconditions/reversedigits/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/loopsandconditions/reversedigits/Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/loopsandconditions/reversedigits/ReverseNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/classstring/string/AnagramCheckerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/classstring/string/RotationStringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/classstring/string/VowelCounterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/classstring/string/WordReverserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/arrayssize/LargestSmallest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arrays/arrayssize/LargestSmallest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/arrayssize/MoveZeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arrays/arrayssize/MoveZeros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/arrayssize/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arrays/arrayssize/ReverseArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/arrayssize/RotateArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arrays/arrayssize/RotateArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/arrayssize/SearchingArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arrays/arrayssize/SearchingArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/arrayssize/SortingArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arrays/arrayssize/SortingArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/arrayssize/core-java/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2bMSLDDuOvudGCOGWNl38h2ak6N" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.MoveZeros.executor": "Run",
+    "JUnit.AnagramCheckerTest.executor": "Run",
+    "JUnit.RotationStringTest.executor": "Run",
+    "JUnit.VowelCounterTest.executor": "Run",
+    "JUnit.WordReverserTest.executor": "Run",
+    "JUnit.WordReverserTest.testReverseWords.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.WordReverserTest.testReverseWords">
+    <configuration name="AnagramCheckerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CoreJava2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classstring.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="classstring.string" />
+      <option name="MAIN_CLASS_NAME" value="classstring.string.AnagramCheckerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RotationStringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CoreJava2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classstring.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="classstring.string" />
+      <option name="MAIN_CLASS_NAME" value="classstring.string.RotationStringTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VowelCounterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CoreJava2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classstring.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="classstring.string" />
+      <option name="MAIN_CLASS_NAME" value="classstring.string.VowelCounterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordReverserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CoreJava2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classstring.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="classstring.string" />
+      <option name="MAIN_CLASS_NAME" value="classstring.string.WordReverserTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordReverserTest.testReverseWords" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CoreJava2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classstring.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="classstring.string" />
+      <option name="MAIN_CLASS_NAME" value="classstring.string.WordReverserTest" />
+      <option name="METHOD_NAME" value="testReverseWords" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.WordReverserTest.testReverseWords" />
+        <item itemvalue="JUnit.WordReverserTest" />
+        <item itemvalue="JUnit.VowelCounterTest" />
+        <item itemvalue="JUnit.RotationStringTest" />
+        <item itemvalue="JUnit.AnagramCheckerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-2f79fb23" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="666b7806-64ca-4419-a05f-849485343b21" name="Changes" comment="" />
+      <created>1706023396404</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706023396404</updated>
+      <workItem from="1706023397457" duration="11102000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
