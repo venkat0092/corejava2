@@ -5,42 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="666b7806-64ca-4419-a05f-849485343b21" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day04/Bus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day04/College.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day04/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day04/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day04/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day05/constructor/Brand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day05/constructor/Nike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day05/keywordfinal/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day05/keywordfinal/Officer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day05/keywordstatic/Employee.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/arrays/arrayssize/core-java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/classstring/string/AnagramChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/classstring/string/RotationString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/classstring/string/VowelCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/classstring/string/WordReverser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/compatorandcomparable/compareto/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/compatorandcomparable/compareto/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/compatorandcomparable/compareto/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/loopsandconditions/reversedigits/AgePerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/loopsandconditions/reversedigits/FibonacciSeries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/loopsandconditions/reversedigits/FizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/loopsandconditions/reversedigits/Pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/loopsandconditions/reversedigits/ReverseNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/classstring/string/AnagramCheckerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/classstring/string/RotationStringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/classstring/string/VowelCounterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/classstring/string/WordReverserTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrays" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arrays" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/arrays/arrayssize/LargestSmallest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arrays/arrayssize/LargestSmallest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/arrays/arrayssize/MoveZeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arrays/arrayssize/MoveZeros.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/arrays/arrayssize/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arrays/arrayssize/ReverseArray.java" afterDir="false" />
@@ -62,7 +30,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -70,125 +38,159 @@
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2bMSLDDuOvudGCOGWNl38h2ak6N" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.MoveZeros.executor": "Run",
-    "JUnit.AnagramCheckerTest.executor": "Run",
-    "JUnit.RotationStringTest.executor": "Run",
-    "JUnit.VowelCounterTest.executor": "Run",
-    "JUnit.WordReverserTest.executor": "Run",
-    "JUnit.WordReverserTest.testReverseWords.executor": "Run",
-    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "MavenSettings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ConvertArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashSetItertionTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ListTraverse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MoveZeros.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveArrayList.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AnagramCheckerTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CharacterCountTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CharacterCountTest.testCharacterCount.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ConvertArrayTest.testConvertArray.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HashSetIterationTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HashSetIterationTest.testHashSetIteration.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ListTraverseTest.testListTraverse.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RemoveArrayListTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RemoveDuplicateTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RemoveDuplicateTest.testRemoveDuplicates.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RemoveStudentTest.testRemoveStudent.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RotationStringTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StudentTest (1).executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StudentTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TwoSumTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TwoSumTest.testTwoSum.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.VowelCounterTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.WordReverserTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.WordReverserTest.testReverseWords.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.CoreJava2 [install].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="JUnit.WordReverserTest.testReverseWords">
-    <configuration name="AnagramCheckerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+}</component>
+  <component name="RunManager" selected="JUnit.StudentTest">
+    <configuration name="CharacterCountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CoreJava2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="classstring.string.*" />
+          <option name="PATTERN" value="hashmap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="classstring.string" />
-      <option name="MAIN_CLASS_NAME" value="classstring.string.AnagramCheckerTest" />
+      <option name="PACKAGE_NAME" value="hashmap" />
+      <option name="MAIN_CLASS_NAME" value="hashmap.CharacterCountTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotationStringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="HashSetIterationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CoreJava2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="classstring.string.*" />
+          <option name="PATTERN" value="sets.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="classstring.string" />
-      <option name="MAIN_CLASS_NAME" value="classstring.string.RotationStringTest" />
+      <option name="PACKAGE_NAME" value="sets" />
+      <option name="MAIN_CLASS_NAME" value="sets.HashSetIterationTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VowelCounterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RemoveDuplicateTest.testRemoveDuplicates" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CoreJava2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="classstring.string.*" />
+          <option name="PATTERN" value="sets.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="classstring.string" />
-      <option name="MAIN_CLASS_NAME" value="classstring.string.VowelCounterTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WordReverserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CoreJava2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="classstring.string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="classstring.string" />
-      <option name="MAIN_CLASS_NAME" value="classstring.string.WordReverserTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WordReverserTest.testReverseWords" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CoreJava2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="classstring.string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="classstring.string" />
-      <option name="MAIN_CLASS_NAME" value="classstring.string.WordReverserTest" />
-      <option name="METHOD_NAME" value="testReverseWords" />
+      <option name="PACKAGE_NAME" value="sets" />
+      <option name="MAIN_CLASS_NAME" value="sets.RemoveDuplicateTest" />
+      <option name="METHOD_NAME" value="testRemoveDuplicates" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CoreJava2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hashmap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hashmap" />
+      <option name="MAIN_CLASS_NAME" value="hashmap.StudentTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CoreJava2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hashmap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hashmap" />
+      <option name="MAIN_CLASS_NAME" value="hashmap.StudentTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CoreJava2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hashmap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hashmap" />
+      <option name="MAIN_CLASS_NAME" value="hashmap.StudentTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.WordReverserTest.testReverseWords" />
-        <item itemvalue="JUnit.WordReverserTest" />
-        <item itemvalue="JUnit.VowelCounterTest" />
-        <item itemvalue="JUnit.RotationStringTest" />
-        <item itemvalue="JUnit.AnagramCheckerTest" />
+        <item itemvalue="JUnit.StudentTest" />
+        <item itemvalue="JUnit.StudentTest (1)" />
+        <item itemvalue="JUnit.CharacterCountTest" />
+        <item itemvalue="JUnit.HashSetIterationTest" />
+        <item itemvalue="JUnit.RemoveDuplicateTest.testRemoveDuplicates" />
       </list>
     </recent_temporary>
   </component>
@@ -207,7 +209,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706023396404</updated>
-      <workItem from="1706023397457" duration="11102000" />
+      <workItem from="1706023397457" duration="15471000" />
+      <workItem from="1706128820978" duration="5136000" />
+      <workItem from="1706137803656" duration="25000" />
+      <workItem from="1706137877479" duration="3279000" />
+      <workItem from="1706152999959" duration="5109000" />
+      <workItem from="1706286889745" duration="16398000" />
+      <workItem from="1706650731873" duration="361000" />
     </task>
     <servers />
   </component>

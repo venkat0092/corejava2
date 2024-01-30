@@ -1,4 +1,6 @@
+
 package sets;
+
 import org.junit.jupiter.api.Test;
 
 import java.util.HashSet;
@@ -29,19 +31,18 @@ public class HashSetIterationTest {
         while (iterator.hasNext()) {
             String element = iterator.next();
             assertTrue(stringSet.contains(element), "Element " + element + " not found in HashSet");
+            System.out.println("Found element: " + element);
         }
 
         // Iterate HashSet using enhanced for loop
         System.out.println("\nUsing enhanced for loop:");
         for (String fruit : stringSet) {
             assertTrue(stringSet.contains(fruit), "Element " + fruit + " not found in HashSet");
+            System.out.println("Found element: " + fruit);
         }
+
+        // Print test completion message
+        System.out.println("Test completed successfully!");
     }
 }
-
-
-
-
-
-
 
