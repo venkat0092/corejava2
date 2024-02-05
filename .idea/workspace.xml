@@ -17,6 +17,17 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/functionsinterface/SwapCase.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/functionsinterface/SwapingValues.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/functionsinterface/UniqueWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streams/AverageSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streams/CapitalizeFirstLetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streams/EvenNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streams/GroupingLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streams/ListOfString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streams/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streams/MaximumElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streams/RemoveDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streams/SortingStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streams/StringVowel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streams/SumOfSquare.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/functionsinterface/FactorialCalTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/functionsinterface/PalindromeTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/functionsinterface/RepeatedCharacterTest.java" afterDir="false" />
@@ -27,6 +38,8 @@
       <change afterPath="$PROJECT_DIR$/src/test/java/functionsinterface/SumOfArrayTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/functionsinterface/SwapCaseTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/functionsinterface/SwapingValuesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/functionsinterface/UniqueWordTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/streams/SumOfSquareTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/arrays" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arrays" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/arrays/arrayssize/LargestSmallest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arrays/arrayssize/LargestSmallest.java" afterDir="false" />
@@ -52,6 +65,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/streams/SortingStrings.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -69,22 +85,34 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AverageSquare.executor": "Run",
+    "Application.CapitalizeFirstLetter.executor": "Run",
     "Application.ConvertArray.executor": "Run",
+    "Application.EvenNumbers.executor": "Run",
     "Application.FactorialCal.executor": "Run",
+    "Application.GroupingLength.executor": "Run",
     "Application.HashSetItertionTest.executor": "Run",
+    "Application.ListOfString.executor": "Run",
     "Application.ListTraverse.executor": "Run",
+    "Application.MaximumElement.executor": "Run",
     "Application.MoveZeros.executor": "Run",
     "Application.Palindrome.executor": "Run",
     "Application.RemoveArrayList.executor": "Run",
+    "Application.RemoveDuplicate.executor": "Run",
     "Application.RepeatedCharacter.executor": "Run",
     "Application.ReverseArrayList.executor": "Run",
     "Application.SortHashMap.executor": "Run",
+    "Application.SortingString.executor": "Run",
+    "Application.SortingStrings.executor": "Run",
     "Application.StringRotation.executor": "Run",
+    "Application.StringVowel.executor": "Run",
     "Application.SumOfArray.executor": "Run",
+    "Application.SumOfSquare.executor": "Run",
     "Application.SwapCase.executor": "Run",
     "Application.SwapingValues.executor": "Run",
     "Application.UniqueWord.executor": "Run",
     "JUnit.AnagramCheckerTest.executor": "Run",
+    "JUnit.AverageSquareTest.testCalculateAverageOfSquaresOfOddNumbers.executor": "Run",
     "JUnit.CharacterCountTest.executor": "Run",
     "JUnit.CharacterCountTest.testCharacterCount.executor": "Run",
     "JUnit.ConvertArrayTest.testConvertArray.executor": "Run",
@@ -109,6 +137,8 @@
     "JUnit.StudentTest (1).executor": "Run",
     "JUnit.StudentTest.executor": "Run",
     "JUnit.SumOfArrayTest.testCalculateSumSingleElementArray.executor": "Run",
+    "JUnit.SumOfSquareTest.executor": "Run",
+    "JUnit.SumOfSquareTest.testSumOfSquare.executor": "Run",
     "JUnit.SwapCaseTest.testSwapCaseEmptyString.executor": "Run",
     "JUnit.SwapingValuesTest.executor": "Run",
     "JUnit.SwapingValuesTest.testSwapValues.executor": "Run",
@@ -119,6 +149,7 @@
     "JUnit.SwappingValuesTest.testSwapValues.executor": "Run",
     "JUnit.TwoSumTest.executor": "Run",
     "JUnit.TwoSumTest.testTwoSum.executor": "Run",
+    "JUnit.UniqueWordTest.testCountUniqueWordsWithRepeatedWords.executor": "Run",
     "JUnit.VowelCounterTest.executor": "Run",
     "JUnit.WordReverserTest.executor": "Run",
     "JUnit.WordReverserTest.testReverseWords.executor": "Run",
@@ -141,13 +172,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.UniqueWord">
-    <configuration name="SwapingValues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functionsinterface.SwapingValues" />
+  <component name="RunManager" selected="JUnit.SumOfSquareTest.testSumOfSquare">
+    <configuration name="CapitalizeFirstLetter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.CapitalizeFirstLetter" />
       <module name="CoreJava2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="functionsinterface.*" />
+          <option name="PATTERN" value="streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,12 +186,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UniqueWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functionsinterface.UniqueWord" />
+    <configuration name="SumOfSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.SumOfSquare" />
       <module name="CoreJava2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="functionsinterface.*" />
+          <option name="PATTERN" value="streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,49 +199,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwapingValuesTest.testSwapValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AverageSquareTest.testCalculateAverageOfSquaresOfOddNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CoreJava2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="functionsinterface.*" />
+          <option name="PATTERN" value="streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="functionsinterface" />
-      <option name="MAIN_CLASS_NAME" value="functionsinterface.SwapingValuesTest" />
-      <option name="METHOD_NAME" value="testSwapValues" />
+      <option name="PACKAGE_NAME" value="streams" />
+      <option name="MAIN_CLASS_NAME" value="streams.AverageSquareTest" />
+      <option name="METHOD_NAME" value="testCalculateAverageOfSquaresOfOddNumbers" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwapingValuesTest.testSwapValuesWithNegative" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SumOfSquareTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CoreJava2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="functionsinterface.*" />
+          <option name="PATTERN" value="streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="functionsinterface" />
-      <option name="MAIN_CLASS_NAME" value="functionsinterface.SwapingValuesTest" />
-      <option name="METHOD_NAME" value="testSwapValuesWithNegative" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="streams" />
+      <option name="MAIN_CLASS_NAME" value="streams.SumOfSquareTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UniqueWordTest.testCountUniqueWordsWithRepeatedWords" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SumOfSquareTest.testSumOfSquare" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CoreJava2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="functionsinterface.*" />
+          <option name="PATTERN" value="streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="functionsinterface" />
-      <option name="MAIN_CLASS_NAME" value="functionsinterface.UniqueWordTest" />
-      <option name="METHOD_NAME" value="testCountUniqueWordsWithRepeatedWords" />
+      <option name="PACKAGE_NAME" value="streams" />
+      <option name="MAIN_CLASS_NAME" value="streams.SumOfSquareTest" />
+      <option name="METHOD_NAME" value="testSumOfSquare" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -218,11 +248,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.UniqueWord" />
-        <item itemvalue="JUnit.UniqueWordTest.testCountUniqueWordsWithRepeatedWords" />
-        <item itemvalue="JUnit.SwapingValuesTest.testSwapValues" />
-        <item itemvalue="Application.SwapingValues" />
-        <item itemvalue="JUnit.SwapingValuesTest.testSwapValuesWithNegative" />
+        <item itemvalue="JUnit.SumOfSquareTest.testSumOfSquare" />
+        <item itemvalue="JUnit.SumOfSquareTest" />
+        <item itemvalue="Application.SumOfSquare" />
+        <item itemvalue="Application.CapitalizeFirstLetter" />
+        <item itemvalue="JUnit.AverageSquareTest.testCalculateAverageOfSquaresOfOddNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -248,7 +278,10 @@
       <workItem from="1706152999959" duration="5109000" />
       <workItem from="1706286889745" duration="16398000" />
       <workItem from="1706650731873" duration="16365000" />
-      <workItem from="1706757907177" duration="6380000" />
+      <workItem from="1706757907177" duration="8374000" />
+      <workItem from="1706913959116" duration="2934000" />
+      <workItem from="1707007960610" duration="49000" />
+      <workItem from="1707095105698" duration="11475000" />
     </task>
     <servers />
   </component>
