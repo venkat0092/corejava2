@@ -6,7 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="666b7806-64ca-4419-a05f-849485343b21" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/src/main/java/arrays/arrayssize/core-java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exceptions/ConvertStringToInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/customexceptions/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/customexceptions/FileException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/customexceptions/topic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exceptions/ConverterStringToInteger.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/functionsinterface/FactorialCal.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/functionsinterface/Palindrome.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/functionsinterface/RepeatedCharacter.java" afterDir="false" />
@@ -29,6 +32,10 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/streams/RemoveDuplicatesFromList.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/streams/StringVowel.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/streams/SumOfSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/threads/Deadlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/threads/EvenOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/threads/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exceptions/ConvertStringToIntegerTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/functionsinterface/FactorialCalTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/functionsinterface/PalindromeTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/functionsinterface/RepeatedCharacterTest.java" afterDir="false" />
@@ -49,8 +56,10 @@
       <change afterPath="$PROJECT_DIR$/src/test/java/streams/RemoveDuplicatesFromListTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/streams/StringVowelTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/streams/SumOfSquareTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/threads/DeadlockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/threads/EvenOddTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/threads/SingletonTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/arrays" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arrays" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/arrays/arrayssize/LargestSmallest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arrays/arrayssize/LargestSmallest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/arrays/arrayssize/MoveZeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arrays/arrayssize/MoveZeros.java" afterDir="false" />
@@ -96,11 +105,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AverageSquare.executor": "Run",
+    "Application.BankAccount.executor": "Run",
     "Application.CapitalizeFirstLetter.executor": "Run",
     "Application.ConvertArray.executor": "Run",
     "Application.ConvertStringToInteger.executor": "Run",
     "Application.EvenNumbers.executor": "Run",
+    "Application.ExceptionExample.executor": "Run",
     "Application.FactorialCal.executor": "Run",
+    "Application.FileException.executor": "Run",
     "Application.GroupingLength.executor": "Run",
     "Application.HashSetItertionTest.executor": "Run",
     "Application.ListOfString.executor": "Run",
@@ -129,7 +141,10 @@
     "JUnit.CharacterCountTest.executor": "Run",
     "JUnit.CharacterCountTest.testCharacterCount.executor": "Run",
     "JUnit.ConvertArrayTest.testConvertArray.executor": "Run",
+    "JUnit.DeadlockTest.executor": "Run",
+    "JUnit.DeadlockTest.testDeadlockOccurs.executor": "Run",
     "JUnit.EvenNumbersTest.executor": "Run",
+    "JUnit.EvenOddTest.executor": "Run",
     "JUnit.FactorialCalTest.executor": "Run",
     "JUnit.FactorialCalTest.testCalculateFactorialWithNegativeNumber.executor": "Run",
     "JUnit.FactorialCalTest.testCalculateFactorialWithPositiveNumber.executor": "Run",
@@ -149,8 +164,11 @@
     "JUnit.RepeatedDigitsTest.testFindRepeatedDigits.executor": "Run",
     "JUnit.ReverseArrayListTest.executor": "Run",
     "JUnit.RotationStringTest.executor": "Run",
+    "JUnit.SingletonTest.executor": "Run",
+    "JUnit.SingletonTest.testGetInstance.executor": "Run",
     "JUnit.SortHashMapTest.testSortHashMapByKeys.executor": "Run",
     "JUnit.StringRotationTest.testDifferentLengths.executor": "Run",
+    "JUnit.StringToIntConverterTest.executor": "Run",
     "JUnit.StringVowelTest.executor": "Run",
     "JUnit.StringVowelTest.testCountAndPrintVowels.executor": "Run",
     "JUnit.StudentTest (1).executor": "Run",
@@ -191,17 +209,17 @@
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "MavenSettings",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.ArraysBasedOnCriteriaTest">
-    <configuration name="SortingStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streams.SortingStrings" />
+  <component name="RunManager" selected="Application.FileException">
+    <configuration name="BankAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="customexceptions.BankAccount" />
       <module name="CoreJava2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="streams.*" />
+          <option name="PATTERN" value="customexceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -209,80 +227,70 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumElementTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ExceptionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="customexceptions.ExceptionExample" />
       <module name="CoreJava2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="streams.*" />
+          <option name="PATTERN" value="customexceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="streams" />
-      <option name="MAIN_CLASS_NAME" value="streams.MaximumElementTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="customexceptions.FileException" />
+      <module name="CoreJava2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="customexceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingletonTest.testGetInstance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CoreJava2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="threads.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="threads" />
+      <option name="MAIN_CLASS_NAME" value="threads.SingletonTest" />
+      <option name="METHOD_NAME" value="testGetInstance" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringToIntConverterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CoreJava2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exceptions" />
+      <option name="MAIN_CLASS_NAME" value="exceptions.StringToIntConverterTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArraysBasedOnCriteriaTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="CoreJava2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="streams.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="streams" />
-      <option name="MAIN_CLASS_NAME" value="streams.ArraysBasedOnCriteriaTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RemoveDuplicatesFromListTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="CoreJava2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="streams.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="streams" />
-      <option name="MAIN_CLASS_NAME" value="streams.RemoveDuplicatesFromListTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RemoveDuplicatesFromListTest.testRemoveDuplicatesFromListTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="CoreJava2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="streams.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="streams" />
-      <option name="MAIN_CLASS_NAME" value="streams.RemoveDuplicatesFromListTest" />
-      <option name="METHOD_NAME" value="testRemoveDuplicatesFromListTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.ArraysBasedOnCriteriaTest" />
-        <item itemvalue="Application.SortingStrings" />
-        <item itemvalue="JUnit.MaximumElementTest" />
-        <item itemvalue="TestNG.RemoveDuplicatesFromListTest" />
-        <item itemvalue="TestNG.RemoveDuplicatesFromListTest.testRemoveDuplicatesFromListTest" />
+        <item itemvalue="Application.FileException" />
+        <item itemvalue="Application.BankAccount" />
+        <item itemvalue="Application.ExceptionExample" />
+        <item itemvalue="JUnit.StringToIntConverterTest" />
+        <item itemvalue="JUnit.SingletonTest.testGetInstance" />
       </list>
     </recent_temporary>
   </component>
@@ -312,7 +320,8 @@
       <workItem from="1706913959116" duration="2934000" />
       <workItem from="1707007960610" duration="49000" />
       <workItem from="1707095105698" duration="12056000" />
-      <workItem from="1707225661526" duration="19130000" />
+      <workItem from="1707225661526" duration="19858000" />
+      <workItem from="1707414963684" duration="11425000" />
     </task>
     <servers />
   </component>
